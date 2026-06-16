@@ -1,0 +1,13 @@
+Create ONE professional image generation prompt.
+
+Blog Title:
+{{10.title}}
+Blog Content:
+{{10.description}}
+Requirements:
+- Healthcare technology theme
+- Modern hospital environment
+- Professional corporate style
+- Realistic photography
+
+Return ONLY the image prompt.
