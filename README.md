@@ -1,0 +1,1 @@
+Built an autonomous AI workflow that transforms healthcare blog posts into LinkedIn-ready social media content. The agent monitors RSS feeds, generates engaging posts using Google Gemini, enriches content through external APIs, stores records in Airtable, and automatically publishes to LinkedIn, eliminating manual content creation and distribution.
